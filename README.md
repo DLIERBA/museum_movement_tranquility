@@ -30,7 +30,17 @@
 |用户想知道某个区域哪里有便利设施|地理围栏|次重要|
 
 #### 产品结构图
++ 产品结构图
+![产品结构图](https://raw.githubusercontent.com/DLIERBA/museum_movement_tranquility/master/museum_images/%E5%8D%9A%E7%89%A9%E9%A6%86%E5%8A%A8%E9%9D%99%E7%9A%86%E5%AE%9C%E4%BA%A7%E5%93%81%E7%BB%93%E6%9E%84%E5%9B%BE.jpg)
 
++ 产品信息结构图
+![产品信息结构图](https://raw.githubusercontent.com/DLIERBA/museum_movement_tranquility/master/museum_images/%E5%8D%9A%E7%89%A9%E9%A6%86%E5%8A%A8%E9%9D%99%E7%9A%86%E5%AE%9C%E4%BA%A7%E5%93%81%E4%BF%A1%E6%81%AF%E7%BB%93%E6%9E%84%E5%9B%BE.jpg)
+
++ 产品功能结构图
+![产品功能结构图](https://raw.githubusercontent.com/DLIERBA/museum_movement_tranquility/master/museum_images/博物馆动静皆宜功能结构图.jpg)
+
++ 产品流程图
+![产品流程图](https://raw.githubusercontent.com/DLIERBA/museum_movement_tranquility/master/museum_images/%E5%8D%9A%E7%89%A9%E9%A6%86%E5%8A%A8%E9%9D%99%E7%9A%86%E5%AE%9C%E4%BA%A7%E5%93%81%E6%B5%81%E7%A8%8B%E5%9B%BE.jpg)
 
 #### API的运用和API的价值宣言
 1. 百度API——人像分割
