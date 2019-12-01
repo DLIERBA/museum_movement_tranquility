@@ -44,7 +44,7 @@
 
 + 免费配额
 
-![免费配额](https://gitee.com/NFUNM080/pydata-notebook/raw/master/%E7%99%BE%E5%BA%A6API%E4%BA%BA%E5%83%8F%E5%88%86%E5%89%B2.png)
+![免费配额](https://raw.githubusercontent.com/DLIERBA/API_ML_AI/master/images/%E7%99%BE%E5%BA%A6API%E4%BA%BA%E5%83%8F%E5%88%86%E5%89%B2.png)
 
 + 请求代码示例
 ``` 
@@ -128,7 +128,7 @@ if response:
 
 + API的配额
 
-![免费配额](https://gitee.com/NFUNM080/pydata-notebook/raw/master/%E9%85%8D%E9%A2%9D.png)
+![免费配额](https://raw.githubusercontent.com/DLIERBA/API_ML_AI/master/images/%E9%85%8D%E9%A2%9D.png)
 
 #### API的实际运用
 1. 百度API——人像分割
