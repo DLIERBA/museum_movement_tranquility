@@ -29,6 +29,33 @@
 |用户想知道某个区域当前有多少人流量|人流量统计|次重要|
 |用户想知道某个区域哪里有便利设施|地理围栏|次重要|
 
+
+#### 产品原型
+
++ 首页
+![首页](https://raw.githubusercontent.com/DLIERBA/museum_movement_tranquility/master/museum_images/%E9%A6%96%E9%A1%B5.png)
+
++ 人像分割
+![人像分割](https://raw.githubusercontent.com/DLIERBA/museum_movement_tranquility/master/museum_images/%E4%BA%BA%E5%83%8F%E5%88%86%E5%89%B21.png)
+![人像分割](https://raw.githubusercontent.com/DLIERBA/museum_movement_tranquility/master/museum_images/%E4%BA%BA%E5%83%8F%E6%8A%A0%E5%9B%BE2.png)
+
++ 人流量统计
+![人流量统计](https://raw.githubusercontent.com/DLIERBA/museum_movement_tranquility/master/museum_images/%E4%BA%BA%E6%B5%81%E9%87%8F%E7%BB%9F%E8%AE%A1.png)
+
++ 路径规划
+![路径规划](https://raw.githubusercontent.com/DLIERBA/museum_movement_tranquility/master/museum_images/%E8%B7%AF%E5%BE%84%E8%A7%84%E5%88%92.png)
+
++ 地理围栏
+![地理围栏](https://raw.githubusercontent.com/DLIERBA/museum_movement_tranquility/master/museum_images/%E5%9C%B0%E7%90%86%E5%9B%B4%E6%A0%8F1.png)
+![地理围栏](https://raw.githubusercontent.com/DLIERBA/museum_movement_tranquility/master/museum_images/%E5%9C%B0%E7%90%86%E5%9B%B4%E6%A0%8F2.png)
+
+
++ 我
+![我-路径规划记录](https://raw.githubusercontent.com/DLIERBA/museum_movement_tranquility/master/museum_images/%E6%88%911.png)
+![我-便利设施记录](https://raw.githubusercontent.com/DLIERBA/museum_movement_tranquility/master/museum_images/%E6%88%914.png)
+![我-相册](https://raw.githubusercontent.com/DLIERBA/museum_movement_tranquility/master/museum_images/%E6%88%913.png)
+![我-人流量统计](https://raw.githubusercontent.com/DLIERBA/museum_movement_tranquility/master/museum_images/%E6%88%912.png)
+
 #### 产品结构图
 + 产品结构图
 ![产品结构图](https://raw.githubusercontent.com/DLIERBA/museum_movement_tranquility/master/museum_images/%E5%8D%9A%E7%89%A9%E9%A6%86%E5%8A%A8%E9%9D%99%E7%9A%86%E5%AE%9C%E4%BA%A7%E5%93%81%E7%BB%93%E6%9E%84%E5%9B%BE.jpg)
