@@ -192,5 +192,9 @@ if response:
 3. 应用行业安全最佳实践和标准
 
 + 参考文章
-[API安全风险]: https://www.fisec.cn/854.html
-[API成为企业黑客攻击目标，你的API还安全吗？]: https://baijiahao.baidu.com/s?id=1607045952862598854&wfr=spider&for=pc
+[API安全风险](https://www.fisec.cn/854.html)
+[API成为企业黑客攻击目标，你的API还安全吗？](https://baijiahao.baidu.com/s?id=1607045952862598854&wfr=spider&for=pc)
+
+
+#### 附录
+[博物馆](http://nfunm080.gitee.io/museum)
